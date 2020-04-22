@@ -1,0 +1,2 @@
+https://www.kaggle.com/roshansharma/heart-diseases-analysis
+https://www.kaggle.com/ahmadjaved097/classifying-heart-disease-patients
